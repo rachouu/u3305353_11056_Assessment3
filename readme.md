@@ -28,6 +28,9 @@ Another challenge involved balancing visual aesthetics with responsive behaviour
 
 Overall, the project strengthened both technical and conceptual understanding of interaction design and front end development. The coding process demonstrated how design decisions directly influence usability, accessibility, and user experience. It also highlighted the importance of iterative problem solving throughout the development cycle.
 
+## Live Link
+https://rachouu.github.io/u3305353_11056_Assessment3/
+
 ## Annotated Resource List
 
 - Garrett, J. J. (2011). *The elements of user experience: User centered design for the web and beyond*.  
